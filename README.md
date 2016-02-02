@@ -1,6 +1,6 @@
 #Who's Hiring on HN?
 
-Hacker News has [links every month](https://news.ycombinator.com/item?id=11012044() where hundreds of companies post looking for candidates. Since the readership is highly technical and  [located in North America and particularly Silicon Valley](https://news.ycombinator.com/item?id=4397332), it's a good proxy of what skills are currently in demand in the industry and 
+Hacker News has [links every month](https://news.ycombinator.com/item?id=11012044) where hundreds of companies post looking for candidates. Since the readership is highly technical and  [located in North America and particularly Silicon Valley](https://news.ycombinator.com/item?id=4397332), it's a good proxy of what skills are currently in demand in the industry and 
 
 This script scrapes the link for  Who's Hiring February 2016, strips out the cruft, and compares against Wikipedia's list of computer languages to pull out the relevant terminology. This is counts of mentions in any of the text. So if someone mentioned Java twice in one posting, the program doens't compensate for eagerness.
 
