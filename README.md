@@ -17,6 +17,9 @@ Top 15-ish list:
 
 ![image](https://raw.githubusercontent.com/veekaybee/whoshiring/master/top15.png)
 
+[Link to Tableau with details](https://public.tableau.com/profile/vicki.boykis#!/vizhome/TopLanguagesFeb2016/Sheet1) 
+
+
 
 ## Possible Next Steps: Adventures in Refactoring
 
