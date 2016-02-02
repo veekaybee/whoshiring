@@ -12,12 +12,16 @@ This script scrapes the link for  Who's Hiring February 2016, strips out the cru
 	
 	`cat commonjobs.txt | sort -r -k2n `
 	
-	
+
+Top 15-ish list:
+
+![image](https://raw.githubusercontent.com/veekaybee/whoshiring/master/top15.png)
 
 
 ## Possible Next Steps: Adventures in Refactoring
 
 * Make the program more modular: split import and export into two different modules so it's not scraping HN every time it's pulled
+* Get better at filtering out non-programming related keywords
 * Find an API access into HN.. the old Firebase one was deprecated for me
 * Sort by other keywords, such as soft skills
 * Possibly use NLTK to cluster skills and companies
