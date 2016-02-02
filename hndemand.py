@@ -55,7 +55,7 @@ for i in links:
 common_language = {k: wordcount[k] for k in language_list if k in wordcount}
 
 with open('commonjobs.txt', 'w') as jobdict:
-		for k,v in common_language.iteritems():
-			jobdict.write(k + " " + ","  + str(v) + "\n")
+	for k,v in common_language.iteritems():
+		jobdict.write(k + " " + ","  + str(v) + "\n")
 
 
